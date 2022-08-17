@@ -6,3 +6,4 @@ def smaller():
     print("n1 is smaller")
   else:
     print("n2 is smaller")
+smaller()
