@@ -6,3 +6,4 @@ def greater():
     print("n1 is greater")
   else:
     print("n2 is greater")
+greater()
